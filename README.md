@@ -1,4 +1,4 @@
-The Project iusep_math_finance_Problems is the problems we need to solve.
+The Project iusep_math_finance_Problems is the problems we need to solve;
 
 The Project_2 is for the fair price without strike price K;
 
